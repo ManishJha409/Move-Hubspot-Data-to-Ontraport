@@ -1,0 +1,13 @@
+F:\CoreMoveHubspotData\CoreMoveHubspotData\bin\Release\netcoreapp2.2\CoreMoveHubspotData.deps.json
+F:\CoreMoveHubspotData\CoreMoveHubspotData\bin\Release\netcoreapp2.2\CoreMoveHubspotData.runtimeconfig.json
+F:\CoreMoveHubspotData\CoreMoveHubspotData\bin\Release\netcoreapp2.2\CoreMoveHubspotData.runtimeconfig.dev.json
+F:\CoreMoveHubspotData\CoreMoveHubspotData\bin\Release\netcoreapp2.2\CoreMoveHubspotData.dll
+F:\CoreMoveHubspotData\CoreMoveHubspotData\bin\Release\netcoreapp2.2\CoreMoveHubspotData.pdb
+F:\CoreMoveHubspotData\CoreMoveHubspotData\bin\Release\netcoreapp2.2\MindMatrix.Libraries.Framework.dll
+F:\CoreMoveHubspotData\CoreMoveHubspotData\bin\Release\netcoreapp2.2\MindMatrix.Libraries.Interfaces.dll
+F:\CoreMoveHubspotData\CoreMoveHubspotData\obj\Release\netcoreapp2.2\CoreMoveHubspotData.csprojResolveAssemblyReference.cache
+F:\CoreMoveHubspotData\CoreMoveHubspotData\obj\Release\netcoreapp2.2\CoreMoveHubspotData.csproj.CoreCompileInputs.cache
+F:\CoreMoveHubspotData\CoreMoveHubspotData\obj\Release\netcoreapp2.2\CoreMoveHubspotData.AssemblyInfoInputs.cache
+F:\CoreMoveHubspotData\CoreMoveHubspotData\obj\Release\netcoreapp2.2\CoreMoveHubspotData.AssemblyInfo.cs
+F:\CoreMoveHubspotData\CoreMoveHubspotData\obj\Release\netcoreapp2.2\CoreMoveHubspotData.dll
+F:\CoreMoveHubspotData\CoreMoveHubspotData\obj\Release\netcoreapp2.2\CoreMoveHubspotData.pdb

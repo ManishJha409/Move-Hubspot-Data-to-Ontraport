@@ -1,0 +1,10 @@
+F:\CoreMoveHubspotData\Move-Hubspot-Data-to-Ontraport\CoreMoveHubspotData\bin\Release\CoreMoveHubspotData.deps.json
+F:\CoreMoveHubspotData\Move-Hubspot-Data-to-Ontraport\CoreMoveHubspotData\bin\Release\CoreMoveHubspotData.runtimeconfig.json
+F:\CoreMoveHubspotData\Move-Hubspot-Data-to-Ontraport\CoreMoveHubspotData\bin\Release\CoreMoveHubspotData.runtimeconfig.dev.json
+F:\CoreMoveHubspotData\Move-Hubspot-Data-to-Ontraport\CoreMoveHubspotData\bin\Release\CoreMoveHubspotData.dll
+F:\CoreMoveHubspotData\Move-Hubspot-Data-to-Ontraport\CoreMoveHubspotData\bin\Release\CoreMoveHubspotData.pdb
+F:\CoreMoveHubspotData\Move-Hubspot-Data-to-Ontraport\CoreMoveHubspotData\obj\Release\CoreMoveHubspotData.csprojAssemblyReference.cache
+F:\CoreMoveHubspotData\Move-Hubspot-Data-to-Ontraport\CoreMoveHubspotData\obj\Release\CoreMoveHubspotData.AssemblyInfoInputs.cache
+F:\CoreMoveHubspotData\Move-Hubspot-Data-to-Ontraport\CoreMoveHubspotData\obj\Release\CoreMoveHubspotData.AssemblyInfo.cs
+F:\CoreMoveHubspotData\Move-Hubspot-Data-to-Ontraport\CoreMoveHubspotData\obj\Release\CoreMoveHubspotData.dll
+F:\CoreMoveHubspotData\Move-Hubspot-Data-to-Ontraport\CoreMoveHubspotData\obj\Release\CoreMoveHubspotData.pdb

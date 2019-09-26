@@ -1,0 +1,9 @@
+F:\CoreMoveHubspotData\CoreMoveHubspotData\bin\Debug\netcoreapp2.2\CoreMoveHubspotData.deps.json
+F:\CoreMoveHubspotData\CoreMoveHubspotData\bin\Debug\netcoreapp2.2\CoreMoveHubspotData.runtimeconfig.json
+F:\CoreMoveHubspotData\CoreMoveHubspotData\bin\Debug\netcoreapp2.2\CoreMoveHubspotData.runtimeconfig.dev.json
+F:\CoreMoveHubspotData\CoreMoveHubspotData\bin\Debug\netcoreapp2.2\CoreMoveHubspotData.dll
+F:\CoreMoveHubspotData\CoreMoveHubspotData\bin\Debug\netcoreapp2.2\CoreMoveHubspotData.pdb
+F:\CoreMoveHubspotData\CoreMoveHubspotData\obj\Debug\netcoreapp2.2\CoreMoveHubspotData.AssemblyInfoInputs.cache
+F:\CoreMoveHubspotData\CoreMoveHubspotData\obj\Debug\netcoreapp2.2\CoreMoveHubspotData.AssemblyInfo.cs
+F:\CoreMoveHubspotData\CoreMoveHubspotData\obj\Debug\netcoreapp2.2\CoreMoveHubspotData.dll
+F:\CoreMoveHubspotData\CoreMoveHubspotData\obj\Debug\netcoreapp2.2\CoreMoveHubspotData.pdb
